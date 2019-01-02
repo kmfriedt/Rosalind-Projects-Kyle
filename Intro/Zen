@@ -1,0 +1,12 @@
+
+s = "oBrl0q64rCdStd4ictEStrepsilasTm5oOkQTva30hRVeViuo376UvB9h5pntt2kmeSJLh6OPPXM8N54EQFLNaJJOQeOksPq9jcLxpKF7CIyQ9OwUlcyBVN3SoM4l3ia96D9LXAcjGIpQzTJztolaig6X3DjyZfPdf6LoEwINxkOXKjVL9DGfm4j5"
+a = 
+b = 
+c = 
+d = 
+
+x = b - a
+y = d - c 
+i = 0
+j = 0 
+while(
